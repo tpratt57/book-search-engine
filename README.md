@@ -42,10 +42,10 @@ No testing is required
 
 ## Screenshots  
 
-[![Book Search] (images/Desktop Screenshot 2022.09.25 - 10.50.01.22.png)]
-[![Book Search] (images/Desktop Screenshot 2022.09.25 - 10.50.08.72.png)]
-[![Book Search] (images/Desktop Screenshot 2022.09.25 - 10.50.16.50png)]
-[![Book Search] (images/Desktop Screenshot 2022.09.25 - 10.50.37.63.png)]
+[![Book Search] (images/Desktop Screenshot 2022.09.25 - 10.50.01.22.png)]  
+[![Book Search] (images/Desktop Screenshot 2022.09.25 - 10.50.08.72.png)]  
+[![Book Search] (images/Desktop Screenshot 2022.09.25 - 10.50.16.50png)]  
+[![Book Search] (images/Desktop Screenshot 2022.09.25 - 10.50.37.63.png)]  
 
 ## License  
 
